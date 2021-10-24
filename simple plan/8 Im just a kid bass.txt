@@ -1,23 +1,10 @@
---------------------------------------------------------------------------------
-
-                        I'm Just A Kid - Simple Plan
-
---------------------------------------------------------------------------------
-
- 
-
 Artist: Simple Plan
-
 Song: I'm Just A Kid (Track 4)
-
-Albulm: No Pads, No Helmets,....Just Balls
-
-Tunning: Drop D: D A D G
+Album: No Pads, No Helmets,....Just Balls
+Tuning: Drop D: D A D G
 Tabbed by Zero is Great Man
 The Intro and first verse are Guitar only parts.
 The bass comes in on the first chorus.
-
- 
 
 Chorus: "I'm just a kid, and life is a nightmare..."
 G|-----------------------------------|
@@ -98,8 +85,3 @@ G|-------------|
 D|-------------|
 A|-4~----------|
 D|-----6~--4~--|
- 
-
-| ~  Hold/Vibrato
-| /  Slide Up
-| \  Slide Down
