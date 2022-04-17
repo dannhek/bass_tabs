@@ -9,6 +9,7 @@ A little bass transcription/riff I put together for this beautiful hymn
 Key of D (or any other dropped tuning)
 
 I've added lyrics for the first verse, but I'm pretty sure it's all the same.
+Note that I add the "bump bump" of D's as a half measure after each line.
 
 Melody
 "When I survey the wondrous cross"
@@ -27,14 +28,14 @@ D|-----------|--------------|-0-0~-|
 
 Bassline/Harmony
 "When I survey the wondrous cross / On which the prince of glory died"
-G|-----------|-------------|------|
-D|------5----|-------------|------|
-A|-5--5---5--|-5--2--------|-5-5~-|
-D|-0---------|-------5--7--|-7-7--|
+G|-----------|------|-------------|------|
+D|------5----|------|-------------|------|
+A|-5--5---5--|-5-5~-|-5--2--------|-5-5~-|
+D|-0---------|-0-0--|-------5--7--|-7-7--|
 
 "My richest gain I count but loss / and pour contempt on all my pride"
-G|-------------|-------------|------|
-D|----5--------|-------------|------|
-A|-5-----2-----|-5-----------|-5-5~-|
-D|-0--------5--|----7--5--0--|------|
+G|-------------|------|-------------|------|
+D|----5--------|------|-------------|------|
+A|-5-----2-----|-5-5~-|-5-----------|-5-5~-|
+D|-0--------5--|-0-0--|----7--5--0--|------|
 
