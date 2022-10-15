@@ -6,6 +6,7 @@
 * Tuning: Half Step Down (EbAbDbGb)
 * Tuning: Drop D (DADG)
 * Tuning: Drop Dd (C#G#C#F#)
+* Picking: Fingerstyle|Pick
 *******************************************************************************
 
 

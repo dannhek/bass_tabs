@@ -1,0 +1,238 @@
+*******************************************************************************
+* Artist: Bethel Music, Leeland
+* Song: Same God
+* Tabber: Dann (github.com/dannhek/bass_tabs)
+* Tuning: Drop D (DADG)
+* Key: C maj (Original recording is in Db)
+* Tabber's Notes:
+*   I transposed everything to the key of C because that's what my church 
+*   plays this in, and I usually play in drop D. 
+*   Some other additions are my own invention/interpretation... 
+*   they sound good with the drummers I usually play with, but let the 
+*   spirit (and your worship leader) lead you
+* Citations:
+*   Based on a stem track I got from my church
+*******************************************************************************
+
+[Intro] (0:00)
+Chords:
+|: C | F/C C :|      
+G|-4/9-99~99~99-|-2/5-55~55~55-|
+D|--------------|--------------|
+A|--------------|--------------|
+D|--------------|--------------|
+
+[Verse 1] (0:19 and then repeat again at )
+C                          F/C  C
+ I'm calling on the God of Ja - cob
+C                                F/C C
+ Whose love endures through genera - tions
+Am7                              F
+  I know that You will keep Your covenant
+C                          F/C  C
+ I'm calling on the God of Mo - ses
+C                          F/C C
+ The One who opened up the o - cean
+Am7                       F               C
+ I need You now to do the same thing for me
+             F/C  C
+For me, for me
+
+G|-4/9-99~99~99-|-2/5-55~55~55-|-4/9-99~99~99-|-2/5-55~55~55-|-22~22~22~220-|--------------|
+D|--------------|--------------|--------------|--------------|--------------|-33~33~33~33~-|
+A|--------------|--------------|--------------|--------------|--------------|--------------| 2x
+D|--------------|--------------|--------------|--------------|--------------|--------------|
+
+G|-4/9-99~99~99-|-2/5-55~55~55-|
+D|--------------|--------------|
+A|--------------|--------------|
+D|--------------|--------------|
+
+[Chorus] (1:04)
+C                 G/B
+ O God, my God, I need You
+Am7               G       F
+ O God, my God, I need You now
+      C/E     F     G
+How I need You now
+C                  G/B
+ O Rock, O Rock of Ages
+Am7                   G      F
+ I'm standing on Your faithfulness
+C/E      F             G   C   F/C C
+ On Your faithfulness
+
+G|------|------|------|------|
+D|------|------|------|------|
+A|-3~~2-|-0~~--|------|------|
+D|------|----5-|-3~~2-|-3~~5-|
+
+[Verse 2] (1:38)
+C                          F/C  C
+ I'm calling on the God of Mar- y
+C                           F/C  C
+ Whose favor rests upon the low- ly
+Am7                  Am7/G      F
+ I know with You all things are possible
+C                          F/C  C
+ I'm calling on the God of Da - vid
+C                           F/C  C
+ Who made a shepherd boy coura - geous
+Am7
+ I may not face Goliath
+F
+ but I've got my own giants
+
+G|---------|---------|---------|---------|---------|---------|
+D|---------|---------|---------|---------|---------|---------|
+A|-3-3-3-3-|-3-3-3-3-|-3-3-3-3-|-3-3-3-3-|-0-0-0-0-|---------|
+D|---------|---------|---------|---------|---------|-5-5-5-3-|
+
+[Chorus] (2:17)
+C                 G/B
+ O God, my God, I need You
+Am7               G       F
+ O God, my God, I need You now
+      C/E     F     Gsus
+How I need You now
+C                  G/B
+ O Rock, O Rock of Ages
+Am7                   G     F
+ I'm standing on Your faithfulness
+C/E      F             Gsus
+ On Your faithfulness
+C                 G/B
+ O God, my God, I need You
+Am7               G       F
+ O God, my God, I need You now
+      C/E     F     Gsus
+How I need You now
+C                  G/B
+ O Rock, O Rock of Ages
+Am7                   G     F
+ I'm standing on Your faithfulness
+C/E      F             Gsus   C  Am7  Fmaj7     Gsus
+ On Your faithfulness (4)    (1) (1) (1)   (1) (3)
+
+G|-----------|-----------|-----------|-----------|
+D|-----------|-----------|-----------|-----------|
+A|-3-333~3~2-|-0-000~0~--|-----------|-----------|
+D|-----------|---------5-|-3-333~3~2-|-3-333~3~5-|
+
+[Bridge]
+C
+ You heard Your children then
+Am7
+ You hear Your children now
+F
+ You are the same God
+F            Gsus
+ You are the same God
+C
+ You answered prayers back then
+Am7
+ And You will answer now
+F                 C/E
+ You are the same God
+F            Gsus
+ You are the same God
+C
+ You were providing then
+Am7
+ You are providing now
+F                 C/E
+ You are the same God
+F            Gsus
+ You are the same God
+C
+ You moved in power then
+Am7
+ God, move in power now
+F                 C/E
+ You are the same God
+F            Gsus
+ You are the same God
+C
+ You were a healer then
+Am7
+ You are a healer now
+F                 C/E
+ You are the same God
+F            Gsus
+ You are the same God
+Am7
+ You were a Savior then
+Gsus
+ You are a Savior now
+F                 C/E
+ You are the same God
+F            Dm7
+ You are the same God
+ 
+[Chorus]
+C                 G/B
+ O God, my God, I need You
+Am7               Gsus    F
+ O God, my God, I need You now
+      C/E     F     Gsus
+How I need You now
+C                  G/B
+ O Rock, O Rock of Ages
+Am7                   G     F
+ I'm standing on Your faithfulness
+C/E      F             Gsus
+ On Your faithfulness
+
+[Chorus 2]
+C                 G/B
+ O God, my God, I need You
+Am7               Gsus    F
+ O God, my God, I need You now
+      C/E     F     Gsus
+How I need You now
+C/E                C  G/B
+ O Rock, O Rock of Ag-es
+Am7                   Gsus  F
+ I'm standing on Your faithfulness
+C/E      F             Gsus
+ On Your faithfulness
+
+[Instrumental]
+C     G/B  Am7     Gsus  F     C/E  F     Gsus
+C     Em7  Am7     Gsus  F     C/E  F     Gsus
+C          Am7           F          F   Gsus
+C          Am7           F          F   Gsus
+
+[Bridge 2]
+C
+ You freed the captives then
+Am7
+ You're freeing hearts right now
+F
+ You are the same God
+F            Gsus
+ You are the same God
+C
+ You touched the lepers then
+Am7
+ I feel Your touch right now
+F
+ You are the same God
+F            Gsus
+ You are the same God
+
+[Instrumental]
+C          Am7           F          F   Gsus
+C          Am7           F          F   Gsus
+
+[Verse 3]
+C                        F/C C
+ I'm calling on the Holy Spirit
+C                         F/A  C/G F C/E  C
+ Almighty river, come and fill me  a-gain
+         F/A  C/G F C/E   C
+Come and fill me  a-gain
+         F/A  C/G F C
+Come and fill me  a-gain
+
+[End]

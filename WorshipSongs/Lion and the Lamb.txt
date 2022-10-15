@@ -1,0 +1,250 @@
+*******************************************************************************
+* Artist: Bethel Music, Leeland
+* Song: Lion and the Lamb
+* Tabber: Dann (github.com/dannhek/bass_tabs)
+* Tuning: Drop D (DADG)
+* Key: G maj (Original recording is in B)
+* Tabber's Notes:
+*   I transposed everything to the key of G because that's what my church 
+*   plays this in, and I usually play in drop D. 
+*   Some other additions are my own invention/interpretation... 
+*   they sound good with the drummers I usually play with, but let the 
+*   spirit (and your worship leader) lead you
+* Citations:
+*   Giving credit where credit is due: I pulled a lot of this from 
+*   rhilderbrand's bass tab and tifhunyy's chordsheet
+*******************************************************************************
+
+Intro (0:00) [Instrumental]
+Chords: G | G Am | C | C 
+Tabs: 
+G|-----------|-----------|-----------|-----------|
+D|-----------|-----------|-----------|-----------|
+A|-----------|-----------|-3333-3-33-|-3333-3-33-|
+D|-555---5~~-|-555---7~~-|-----------|-----------|
+
+G|-----------|-----------|-----------|-----------|
+D|-----------|-----------|-----------|---------5-|
+A|-----------|-----------|-3333-3-33-|-3333-3-3--|
+D|-5555-5-55-|-5555-5-77-|-----------|-----------|
+
+Verse (3:32) 
+[
+    Relatively light. Can kick it up an octave to be softer. 
+    8th notes of half notes both work, as long they're light
+    But also really hit the 'dun dun' on the first pair of C measures
+    Slide up an octave at the end to transition to a down chorus
+]
+     G
+He's coming on the clouds
+          Am               C
+kings and kingdoms will bow down
+    Em
+And every chain will break
+                 D          C
+as broken hearts declare His praise
+                 D
+Who can stop the Lord Almighty?
+
+Tabs:
+G|----------|----------|----------|----------|
+D|-55555555-|-55557777-|----------|----------|
+A|----------|----------|-33333-33-|-33333-33-|
+D|----------|----------|----------|----------|
+
+G|----------|----------|----------|------------|
+D|----------|----------|----------|------------|
+A|-77777777-|-77775555-|-33333333-|-5555555/17-|
+D|----------|----------|----------|------------|
+
+
+Chorus (0:55)
+[
+    Down chorus to start, but with a build
+    Bass progressively moves down octaves to build
+]
+G                        D      Em7
+Our God is the Lion, the Lion of Judah
+                  Em7      D           C
+He's roaring with power and fighting our battles
+                    D
+And every knee will bow before Him
+G                        D            Em7
+Our God is the Lamb, the Lamb that was slain
+                   Em7
+For the sin of the world
+    D               C
+His blood breaks the chains
+               D
+And every knee will bow before 
+                 C
+the Lion and the Lamb
+                   D
+Oh every knee will bow before Him
+
+Tabs: 
+"Our God is the lion..."
+G|------------|------------|-----------|-----------|
+D|-17~~~17~~~-|-12~~/14~~~-|-12~~\10~~-|-12~~\-----|
+A|------------|------------|-----------|------5~~~-|
+D|------------|------------|-----------|-----------|
+"Our God is the lamb..."
+G|----------|----------|---------|------|
+D|-5~~~5~~~-|----------|---------|------|
+A|----------|-5~~/7~7~-|-7-7-5-3~|-3~~~-|
+D|----------|----------|---------|------|
+"and every knee will bow..."
+G|------|------|------|------|
+D|------|------|------|------|
+A|-3~~~-|-5~~~-|-3~~~-|-5~---|
+D|------|------|------|---0~-|
+
+Instrumental (1:30)
+Chords: G | G Am | C | C 
+Tabs: 
+G|-----------|-----------|-----------|-----------|
+D|-----------|-----------|-----------|-----------|
+A|-----------|-----------|-3333-3-33-|-3333-3-33-|
+D|-555---5~~-|-555---7~~-|-----------|-----------|
+
+G|-----------|-----------|-----------|-----------|
+D|-----------|-----------|-----------|---------5-|
+A|-----------|-----------|-3333-3-33-|-3333-3-3--|
+D|-5555-5-55-|-5555-5-77-|-----------|-----------|
+
+ 
+
+Verse 2 (1:41)
+   G
+So open up the gates
+                    Am     C
+make way before the King of kings
+    Em
+Our God who calls the saved
+                   D       C
+is here to set the captives free
+                 D
+Who can stop the Lord Almighty?
+
+Tabs:
+G|------------------|------------------|--------------|----------4---|
+D|------------------|------------------|----------4---|-----------75-|
+A|------------------|------------------|-333333357-75-|-333333357----|
+D|-5555555555555555-|-5555555577777777-|--------------|--------------|
+
+G|------------------|------------------|------------------|------------------|
+D|-2222222222222222-|-2222222200000000-|------------------|------------------|
+A|------------------|------------------|-5555555555555555-|-3333333333333753-|
+D|------------------|------------------|------------------|------------------|
+
+
+Chorus (2:02)
+G                        D      Em7
+Our God is the Lion, the Lion of Judah
+                  Em7      D           C
+He's roaring with power and fighting our battles
+                    D
+And every knee will bow before Him
+G                        D            Em7
+Our God is the Lamb, the Lamb that was slain
+                   Em7
+For the sin of the world
+    D               C
+His blood breaks the chains
+               D
+And every knee will bow before 
+                 C
+the Lion and the Lamb
+                   D
+Oh every knee will bow before Him
+
+Tabs:
+"Our God is the lion..."
+G|----------|----------|----------|----------|
+D|----------|----------|----------|----------|
+A|----------|-55557777-|-77775533-|-33335555-|
+D|-55555555-|----------|----------|----------|
+"Our God is the lamb..."
+G|----------|----------|----------|----------|
+D|----------|----------|----------|----------|
+A|----------|----------|-----5533-|-3333-----|
+D|-55555555-|-00002222-|-2222-----|-----0000-|
+"and every knee will bow..."
+G|------|------|------|------|
+D|------|------|------|------|
+A|-3333-|-5555-|-3333-|-555--|
+D|------|------|------|----0-|
+
+
+Instrumental (2:40)
+Am     G/B     C     D
+[No Bass]
+
+Bridge (2:51)
+Am              G/B
+Who can stop the Lord Almighty?
+C                D
+Who can stop the Lord Almighty?
+Am              G/B
+Who can stop the Lord Almighty?
+C                D
+Who can stop the Lord Almighty?
+Am              G/B
+Who can stop the Lord Almighty?
+C                D
+Who can stop the Lord Almighty?
+Am              G/B
+Who can stop the Lord Almighty?
+C                D
+Who can stop the Lord
+
+Tabs:
+[
+    Build throughout this. Start with progression on G-string and 
+    transition to faster beats and lower octave with drum build
+]
+G|-2~~~-|-4~~~-|-5~~~-|-7~~~-|
+D|------|------|------|------|
+A|-0000-|-2222-|-3333-|-555--|
+D|------|------|------|----0-|
+ 
+Musical interlude before last chorus: just slap/hammer-on octaves of D and/or G
+
+Chorus (3:38)
+G                        D      Em7
+Our God is the Lion, the Lion of Judah
+                  Em7      D           C
+He's roaring with power and fighting our battles
+                    D
+And every knee will bow before Him
+G                        D            Em7
+Our God is the Lamb, the Lamb that was slain
+                   Em7
+For the sin of the world
+    D               C
+His blood breaks the chains
+               D
+And every knee will bow before 
+                 C
+the Lion and the Lamb
+                   D              G
+Oh every knee will bow before Him
+
+Tabs:
+"Our God is the lion..."
+G|----------|----------|----------|----------|
+D|----------|----------|----------|----------|
+A|----------|-55557777-|-77775533-|-33335555-|
+D|-55555555-|----------|----------|----------|
+"Our God is the lamb..."
+G|----------|----------|----------|----------|
+D|----------|----------|----------|----------|
+A|----------|----------|-----5533-|-3333-----|
+D|-55555555-|-00002222-|-2222-----|-----0000-|
+"and every knee will bow..."
+G|------|------|------|------|
+D|------|------|------|------|
+A|-3333-|-5555-|-3333-|-555--|
+D|------|------|------|----0-|
+
+End: 4:40
